@@ -29,7 +29,7 @@ por diferença entre os cossenos.
 A primeira parte do código apresenta a solução de identificação de similaridade com a abordagem em Bag of Words, quando identificamos pares de perguntas
 similares.
 a segunda parte do código apresenta a identificação de similaridade utilizando modelos de transformação, no caso o BERT e a terceira, ou extensão da segunda
-parte um modelo do tipo Elektra.
+parte um modelo do tipo Electra.
 Quando utilizamos a segunda parte do código e incluimos perguntas referentes aos pares identificados na parte 1, conseguimos identificar as mesmas perguntas
 identificadas pelos pares, com ranqueamento por utilização de métricas dos cossenos
 
