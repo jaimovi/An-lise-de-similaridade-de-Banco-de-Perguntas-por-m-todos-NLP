@@ -3,7 +3,7 @@
 # Analise-de-similaridade-de-Banco-de-Perguntas-por-metodos-NLP
 
 #### Aluno: [Mauro Jaimovich](https://github.com/jaimovi/).
-#### Orientador: [Felipe Borges](https://github.com/link_do_github).
+#### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
 
 ---
 
