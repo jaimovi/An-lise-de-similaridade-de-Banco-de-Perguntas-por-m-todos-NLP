@@ -11,17 +11,15 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o código](https://github.com/jaimovi/Analise-de-similaridade-de-Banco-de-Perguntas-por-metodos-NLP/blob/main/Perguntas_ver1.ipynb). <!-- caso não aplicável, remover esta linha -->
 
-- [Link para a monografia](https://link_da_monografia.com). <!-- caso não aplicável, remover esta linha -->
 
 - Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
-    - [Nome do Trabalho 1](https://link_do_trabalho.com).
-    - [Nome do Trabalho 2](https://link_do_trabalho.com).
+    - NLP | How tokenizing text, sentence, words works.(https://www.geeksforgeeks.org/nlp-how-tokenizing-text-sentence-words-works/).
+    - BERT LaBSE Sentence Embeddings.(https://nlp.johnsnowlabs.com/2020/09/23/labse.html).
 
 ---
 
 ### Resumo
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
 A Proposta deste projeto é de encontrar Similaridade entre perguntas cadastradas em Banco de dados para evitar duplicidade de conteúdo, otimizando a contextualização do banco para utilização de usuários ou demandantes de informação.
 Na primeira parte e na segunda parte do código houve a codificação das perguntas em Tokens numéricos e a abordagem nas duas partes foi a de comparação
