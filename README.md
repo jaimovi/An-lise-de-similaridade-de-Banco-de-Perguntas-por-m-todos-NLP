@@ -1,4 +1,3 @@
-<!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
 # Analise-de-similaridade-de-Banco-de-Perguntas-por-metodos-NLP
 
