@@ -12,8 +12,8 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 
 - Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
-    - NLP | How tokenizing text, sentence, words works.(https://www.geeksforgeeks.org/nlp-how-tokenizing-text-sentence-words-works/).
-    - BERT LaBSE Sentence Embeddings.(https://nlp.johnsnowlabs.com/2020/09/23/labse.html).
+    - [NLP | How tokenizing text, sentence, words works.](https://www.geeksforgeeks.org/nlp-how-tokenizing-text-sentence-words-works/).
+    - [BERT LaBSE Sentence Embeddings.](https://nlp.johnsnowlabs.com/2020/09/23/labse.html).
 
 ---
 
